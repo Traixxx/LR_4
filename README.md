@@ -2,10 +2,7 @@
 1. git push
 2. git pull
 3. git merge 
-4. go to submodule
-   git merge
-   go back
-   git merge
+4. go to submodule git merge go back git merge
 5. in git folder/.git/remote
 6.1 зручна для для резервного копіювання окремих файлів
 6.2 доступ до повної історії комітів
